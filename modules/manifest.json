@@ -1,7 +1,4 @@
 {
-     "modules": []
-   }
-{
   "modules": [
     { "id": "其他已有模块", "js": "modules/xxx.js" },
     { "id": "ui-enhance", "js": "modules/ui-enhance.js" }
